@@ -73,6 +73,6 @@
 ## 문제 풀이
 
 ### 정답 코드
-[코드](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1012%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94/code.py)
+[코드](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1021%20%ED%9A%8C%EC%A0%84%ED%95%98%EB%8A%94%20%ED%81%90/code.py)
 ```python
 ```
