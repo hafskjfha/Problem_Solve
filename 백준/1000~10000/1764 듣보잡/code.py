@@ -5,7 +5,7 @@ de=set()
 bo=set()
 for _ in range(N):
 	s = input().strip()
-de.add(s)
+        de.add(s)
 for _ in range(M):
 	s = input().strip()
 	bo.add(s)
