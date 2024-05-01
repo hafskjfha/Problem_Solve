@@ -1,3 +1,1 @@
-import math
-N,M = map(int,input().split())
-print(math.comb(N,M))
+import math;print(math.comb(*map(int,input().split())))
