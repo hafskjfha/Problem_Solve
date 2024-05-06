@@ -1,4 +1,5 @@
 | 문제 번호 | 문제 이름 | 정답 코드 | 
+
 | 10026 | [적록색약](https://www.acmicpc.net/problem/10026) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/10026 %EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD/code.py) | 
 | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1012 %EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94/code.py) | 
 | 1021 | [회전하는 큐](https://www.acmicpc.net/problem/1021) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1021 %ED%9A%8C%EC%A0%84%ED%95%98%EB%8A%94%20%ED%81%90/code.py) | 
