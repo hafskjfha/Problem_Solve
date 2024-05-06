@@ -50,7 +50,7 @@
 | 6080 | [Bad Grass](https://www.acmicpc.net/problem/6080) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/6080%20Bad%20Grass/code.py) | 
 | 6593 | [상범 빌딩](https://www.acmicpc.net/problem/6593) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/6593%20%EC%83%81%EB%B2%94%20%EB%B9%8C%EB%94%A9/code.py) | 
 | 6832 | [Maze](https://www.acmicpc.net/problem/6832) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/6832%20Maze/code.py) | 
-| 7107 | [Journey of A Knight](https://www.acmicpc.net/problem/7107) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/7107%20Journey%20of%20A%20Knight/code.py) | 
+| 7107 | [Journey of A Knight](https://www.acmicpc.net/problem/7107) | [python1](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/7107%20Journey%20of%20A%20Knight/code1.py) [python2](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/7107%20Journey%20of%20A%20Knight/code2.py) | 
 | 7569 | [토마토](https://www.acmicpc.net/problem/7569) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/7569%20%ED%86%A0%EB%A7%88%ED%86%A0/code.py) | 
 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/7576%20%ED%86%A0%EB%A7%88%ED%86%A0/code.py) | 
 | 8394 | [악수](https://www.acmicpc.net/problem/8394) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/8394%20%EC%95%85%EC%88%98/code.py) | 
