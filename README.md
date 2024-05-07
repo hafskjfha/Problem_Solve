@@ -91,6 +91,7 @@
 | 17413 | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/17413%20%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0%202/code.py) | 
 | 18258 | [큐 2](https://www.acmicpc.net/problem/18258) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/18258%20%ED%81%90%202/code.py) | 
 | 18405 | [경쟁적 전염](https://www.acmicpc.net/problem/18405) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/18405%20%EA%B2%BD%EC%9F%81%EC%A0%81%20%EC%A0%84%EC%97%BC/code.py) | 
+| 23747 | [와드](https://www.acmicpc.net/problem/23747) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/23747%20%EC%99%80%EB%93%9C/code.py) |
 | 25418 | [정수 a를 k로 만들기](https://www.acmicpc.net/problem/25418) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/25418%20%EC%A0%95%EC%88%98%20a%EB%A5%BC%20k%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0/code.py) | 
 | 28279 | [덱 2](https://www.acmicpc.net/problem/28279) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/28279%20%EB%8D%B1%202/code.py) | 
 | 30610 | [A-maze-ing Lakes](https://www.acmicpc.net/problem/30610) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/30001~40000/30610%20A-maze-ing%20Lakes/code.py) | 
