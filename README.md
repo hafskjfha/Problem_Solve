@@ -48,6 +48,7 @@
 | 4963 | [섬의 개수](https://www.acmicpc.net/problem/4963) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/4963%20%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98/code.py) | 
 | 5558 | [チーズ (Cheese)](https://www.acmicpc.net/problem/5558) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/5558%20%E3%83%81%E3%83%BC%E3%82%BA%20(Cheese)/code.py) |
 | 5597 | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/5597%20%EA%B3%BC%EC%A0%9C%20%EC%95%88%20%EB%82%B4%EC%8B%A0%20%EB%B6%84..%3F/code.py) | 
+| 5931 | [Cow Beauty Pageant](https://www.acmicpc.net/problem/5931) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/5931%20Cow%20Beauty%20Pageant/code.py)
 | 5958 | [Space Exploration](https://www.acmicpc.net/problem/5958) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/5958%20Space%20Exploration/code.py) | 
 | 6080 | [Bad Grass](https://www.acmicpc.net/problem/6080) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/6080%20Bad%20Grass/code.py) | 
 | 6593 | [상범 빌딩](https://www.acmicpc.net/problem/6593) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/6593%20%EC%83%81%EB%B2%94%20%EB%B9%8C%EB%94%A9/code.py) | 
