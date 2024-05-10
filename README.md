@@ -29,6 +29,7 @@
 | 2161 | [카드1](https://www.acmicpc.net/problem/2161) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2161%20%EC%B9%B4%EB%93%9C1/code.py) | 
 | 2164 | [카드2](https://www.acmicpc.net/problem/2164) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2164%20%EC%B9%B4%EB%93%9C2/code.py) | 
 | 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2178%20%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89/code.py) | 
+| 2194 | [유닛 이동시키기](https://www.acmicpc.net/problem/2194) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2194%20%EC%9C%A0%EB%8B%9B%20%EC%9D%B4%EB%8F%99%EC%8B%9C%ED%82%A4%EA%B8%B0/code.py)
 | 2407 | [조합](https://www.acmicpc.net/problem/2407) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2407%20%EC%A1%B0%ED%95%A9/code.py) | 
 | 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2439%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%202/code.py) | 
 | 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2562%20%EC%B5%9C%EB%8C%93%EA%B0%92/code.py) | 
@@ -45,6 +46,7 @@
 | 4153 | [직각삼각형](https://www.acmicpc.net/problem/4153) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/4153%20%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95/code.py) | 
 | 4172 | [sqrt log sin](https://www.acmicpc.net/problem/4172) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/4172%20sqrt%20log%20sin/code.py) | 
 | 4677 | [Oil Deposits](https://www.acmicpc.net/problem/4677) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/4677%20Oil%20Deposits/code.py) | 
+| 4956 | [Amazing Mazes](https://www.acmicpc.net/problem/4956) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/4956%20Amazing%20Mazes/code.py)
 | 4963 | [섬의 개수](https://www.acmicpc.net/problem/4963) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/4963%20%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98/code.py) | 
 | 5558 | [チーズ (Cheese)](https://www.acmicpc.net/problem/5558) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/5558%20%E3%83%81%E3%83%BC%E3%82%BA%20(Cheese)/code.py) |
 | 5597 | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/5597%20%EA%B3%BC%EC%A0%9C%20%EC%95%88%20%EB%82%B4%EC%8B%A0%20%EB%B6%84..%3F/code.py) | 
