@@ -43,6 +43,7 @@
 | 2920 | [음계](https://www.acmicpc.net/problem/2920) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2920%20%EC%9D%8C%EA%B3%84/code.py) | 
 | 2941 | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2941%20%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%20%EC%95%8C%ED%8C%8C%EB%B2%B3/code.py) | 
 | 3052 | [나머지](https://www.acmicpc.net/problem/3052) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/3052%20%EB%82%98%EB%A8%B8%EC%A7%80/code.py) | 
+| 3055 | [탈출](https://www.acmicpc.net/problem/3055) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/3055%20%ED%83%88%EC%B6%9C/code.py)
 | 4153 | [직각삼각형](https://www.acmicpc.net/problem/4153) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/4153%20%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95/code.py) | 
 | 4172 | [sqrt log sin](https://www.acmicpc.net/problem/4172) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/4172%20sqrt%20log%20sin/code.py) | 
 | 4677 | [Oil Deposits](https://www.acmicpc.net/problem/4677) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/4677%20Oil%20Deposits/code.py) | 
