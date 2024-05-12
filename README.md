@@ -97,6 +97,7 @@
 | 17836 | [공주님을 구해라!](https://www.acmicpc.net/problem/17836) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%84%20%EA%B5%AC%ED%95%B4%EB%9D%BC!/code.py)
 | 18258 | [큐 2](https://www.acmicpc.net/problem/18258) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/18258%20%ED%81%90%202/code.py) | 
 | 18405 | [경쟁적 전염](https://www.acmicpc.net/problem/18405) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/18405%20%EA%B2%BD%EC%9F%81%EC%A0%81%20%EC%A0%84%EC%97%BC/code.py) | 
+| 22352 | [항체인식](https://www.acmicpc.net/problem/22352) | [python](https://github.com/hafskjfha/Problem_Solve/tree/main/%EB%B0%B1%EC%A4%80/20001~30000/22352%20%ED%95%AD%EC%B2%B4%20%EC%9D%B8%EC%8B%9D)
 | 22362 | [爆発の連鎖](https://www.acmicpc.net/problem/22362) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/22362%20%E7%88%86%E7%99%BA%E3%81%AE%E9%80%A3%E9%8E%96/code.py)
 | 23747 | [와드](https://www.acmicpc.net/problem/23747) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/23747%20%EC%99%80%EB%93%9C/code.py) |
 | 25418 | [정수 a를 k로 만들기](https://www.acmicpc.net/problem/25418) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/25418%20%EC%A0%95%EC%88%98%20a%EB%A5%BC%20k%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0/code.py) | 
