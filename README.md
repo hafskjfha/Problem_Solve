@@ -93,7 +93,7 @@
 | 15624 | [피보나치 수 7](https://www.acmicpc.net/problem/15624) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/15624%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%207/code.py) | 
 | 16509 | [장군](https://www.acmicpc.net/problem/16509) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/16509%20%EC%9E%A5%EA%B5%B0/code.py) | 
 | 16916 | [부분 문자열](https://www.acmicpc.net/problem/16916) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/16916%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4/code.py) | 
-| 16953 | [A → B](https://www.acmicpc.net/problem/16953) | [pythn](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/16953%20A%20%E2%86%92%20B/code.py)
+| 16953 | [A → B](https://www.acmicpc.net/problem/16953) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/16953%20A%20%E2%86%92%20B/code.py)
 | 17175 | [피보나치는 지겨웡~](https://www.acmicpc.net/problem/17175) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/17175%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EB%8A%94%20%EC%A7%80%EA%B2%A8%EC%9B%A1~/code.py) | 
 | 17219 | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/17219%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%B0%BE%EA%B8%B0/code.py) | 
 | 17413 | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/17413%20%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0%202/code.py) | 
