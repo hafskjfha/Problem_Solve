@@ -110,5 +110,6 @@
 | 25788 | [Aqualin](https://www.acmicpc.net/problem/25788) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/25788%20Aqualin/code.py) |
 | 26993 | [Knights of Ni](https://www.acmicpc.net/problem/26993) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/26993%20Knights%20of%20Ni/code.py)
 | 28279 | [덱 2](https://www.acmicpc.net/problem/28279) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/28279%20%EB%8D%B12/code.py) | 
+| 28291 | [레드스톤](https://www.acmicpc.net/problem/28291) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/28291%20%EB%A0%88%EB%93%9C%EC%8A%A4%ED%86%A4/code.py)
 | 30610 | [A-maze-ing Lakes](https://www.acmicpc.net/problem/30610) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/30001~40000/30610%20A-maze-ing%20Lakes/code.py) | 
 | 31575 | [도시와 비트코인](https://www.acmicpc.net/problem/31575) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/30001~40000/31575%20%EB%8F%84%EC%8B%9C%EC%99%80%20%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8/code.py) | 
