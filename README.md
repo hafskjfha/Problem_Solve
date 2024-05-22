@@ -94,6 +94,7 @@
 | 14495 | [피보나치 비스무리한 수열](https://www.acmicpc.net/problem/14495) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/14495%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EB%B9%84%EC%8A%A4%EB%AC%B4%EB%A6%AC%ED%95%9C%20%EC%88%98%EC%97%B4/code.py) | 
 | 14940 | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/14940%20%EC%89%AC%EC%9A%B4%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/code.py) | 
 | 15624 | [피보나치 수 7](https://www.acmicpc.net/problem/15624) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/15624%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%207/code.py) | 
+| 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/15650%20N%EA%B3%BC%20M%20(2)/code.py)
 | 16509 | [장군](https://www.acmicpc.net/problem/16509) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/16509%20%EC%9E%A5%EA%B5%B0/code.py) | 
 | 16916 | [부분 문자열](https://www.acmicpc.net/problem/16916) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/16916%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4/code.py) | 
 | 16953 | [A → B](https://www.acmicpc.net/problem/16953) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/16953%20A%20%E2%86%92%20B/code.py)
