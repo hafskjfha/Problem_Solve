@@ -3,6 +3,7 @@
 |------|------|------| 
 | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1012%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94/code.py) | 
 | 1021 | [회전하는 큐](https://www.acmicpc.net/problem/1021) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1021%20%ED%9A%8C%EC%A0%84%ED%95%98%EB%8A%94%20%ED%81%90/code.py) | 
+| 1074 | [Z](https://www.acmicpc.net/problem/1074) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1074%20Z/code.py) | 
 | 1152 | [단어의 개수](https://www.acmicpc.net/problem/1152) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1152%20%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98/code.py) | 
 | 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1157%20%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80/code.py) | 
 | 1158 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1158%20%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C/code.py) | 
