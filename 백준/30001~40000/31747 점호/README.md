@@ -1,7 +1,7 @@
 * [문제 링크](https://www.acmicpc.net/problem/31747)
 
 ## 문제 정보
-<img src="/백준/image/9.svg" width="2%" height="6%" alt="실버2" style="margin-top: 50%;"></img> **(31747) 점호** <br>
+<img src="/백준/image/8.svg" width="2%" height="6%" alt="실버3" style="margin-top: 50%;"></img> **(31747) 점호** <br>
 | 시간 제한 | 메모리 제한 |
 |------|------|
 | 1초 | 1024MB |
@@ -52,3 +52,5 @@ $(1\le i\le N)$ 
 | 2 | 20 | $K = N$ |
 | 3 | 20 |  $N \le 10^3$ | 
 | 4 | 40 |  추가 제한 조건이 없습니다.|
+
+#### 예제 입력 1
