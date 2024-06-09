@@ -25,6 +25,7 @@
 | 1822 | [차집합](https://www.acmicpc.net/problem/1822) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1822%20%EC%B0%A8%EC%A7%91%ED%95%A9/code.py) | 
 | 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1920%20%EC%88%98%20%EC%B0%BE%EA%B8%B0/code.py) | 
 | 1927 | [최소 힙](https://www.acmicpc.net/problem/1927) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1927%20%EC%B5%9C%EC%86%8C%20%ED%9E%99/code.py) | 
+| 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1932%20%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95/code.py)
 | 1966 | [프린터 큐](https://www.acmicpc.net/problem/1966) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1966%20%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90/code.py) | 
 | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1978%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/code.py) | 
 | 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1987%20%EC%95%8C%ED%8C%8C%EB%B2%B3/code.py) |
