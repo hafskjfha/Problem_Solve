@@ -6,6 +6,7 @@
  | [백준 31747 점호](https://www.acmicpc.net/problem/31747) | [해설](https://github.com/hafskjfha/Problem_Solve/tree/main/%EB%B0%B1%EC%A4%80/30001~40000/31747%20%EC%A0%90%ED%98%B8) |
 <br>
 <br>
+
 | 문제 번호 | 문제 이름 | 정답 코드 | 
 |------|------|------| 
 | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1012%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94/code.py) | 
