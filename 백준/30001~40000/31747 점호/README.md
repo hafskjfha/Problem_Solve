@@ -128,23 +128,23 @@ from collections import deque
 input=sys.stdin.readline
 N,K=map(int,input().split())
 A=input().strip().split()
-A1,A2,s,t=deque(),deque(),0,0
-for i,v in enumerate(A):
+A1,A2,s,t=deque(),deque(),0,0 #1학년큐,2학년큐,기본 인덱스,점호 시간 변수 선언
+for i,v in enumerate(A): #큐에 인덱스 넣기
 	if v=='1':
 		A1.append(i)
 	else:
 		A2.append(i)
-while A1 and A2:
-	if A1[0]<s+K and A2[0]<s+K:
+while A1 and A2: #두개의 큐중 1개가 빌때 까지
+	if A1[0]<s+K and A2[0]<s+K: #1학년큐의 0번째요소와 2학년큐의 0번째욧소가 기본인덱스+K보다 작으면 1,2학년 점호
 		A1.popleft()
 		A2.popleft()
-		s+=2
-	elif A1[0]<s+K:
+		s+=2 #2명 점호했으니 기본인덱스 +2
+	elif A1[0]<s+K: #1학년큐의 0번째요소가 기본인덱스+K보다 작으면 1학년점호
 		A1.popleft()
-		s+=1
-	else:
+		s+=1 #1명 점호했으니 기본인덱스 +1
+	else: #2학년만 점호가능하면 
 		A2.popleft()
-		s+=1
+		s+=1 #1명 점호했으니 기본인덱스+1
 	t+=1
-print(t+len(A1)+len(A2))
+print(t+len(A1)+len(A2)) #정답 출력 (1,2학년 같이 줄서있을떄 점호한시간 + 단일 학년만 있을때 학생수(무조건 1시간에 1명만 점호가능하므로.))
 ```
