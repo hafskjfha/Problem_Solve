@@ -114,7 +114,7 @@ $4$에 점호가 끝나게 됩니다.
 ## 문제 풀이
 
 <img src="/백준/30001~40000/31747 점호/무제9_20240610081212.jpg" alt="대충 설명 그림"></img><br>
-**1학년큐, 2학년큐로 인덱스를 관라한다. 점호 할 수 있는 인덱스라면 큐에서 꺼낸다.**
+**1학년큐, 2학년큐로 인덱스를 관리한다. 점호 할 수 있는 인덱스라면 큐에서 꺼낸다.**
 <img src="/백준/30001~40000/31747 점호/20240610081456.png"  alt="대충 설명 그림"></img><br>
 <img src="/백준/30001~40000/31747 점호/20240610081536.png"  alt="대충 설명 그림"></img><br>
 <img src="/백준/30001~40000/31747 점호/20240610081603.png"  alt="대충 설명 그림"></img><br>
@@ -123,5 +123,28 @@ $4$에 점호가 끝나게 됩니다.
 
 ## 정답 코드
 ```python
-
+import sys
+from collections import deque
+input=sys.stdin.readline
+N,K=map(int,input().split())
+A=input().strip().split()
+A1,A2,s,t=deque(),deque(),0,0
+for i,v in enumerate(A):
+	if v=='1':
+		A1.append(i)
+	else:
+		A2.append(i)
+while A1 and A2:
+	if A1[0]<s+K and A2[0]<s+K:
+		A1.popleft()
+		A2.popleft()
+		s+=2
+	elif A1[0]<s+K:
+		A1.popleft()
+		s+=1
+	else:
+		A2.popleft()
+		s+=1
+	t+=1
+print(t+len(A1)+len(A2))
 ```
