@@ -100,6 +100,7 @@
 | 11370 | [Spawn of Ungoliant](https://www.acmicpc.net/problem/11370) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11370%20Spawn%20of%20Ungoliant/code.py) | 
 | 11399 | [ATM](https://www.acmicpc.net/problem/11399) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11399%20ATM/code.py) | 
 | 11440 | [피보나치 수의 제곱의 합](https://www.acmicpc.net/problem/11440) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11440%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%EC%9D%98%20%EC%A0%9C%EA%B3%B1%EC%9D%98%20%ED%95%A9/code.py) |
+| 11444 | [피보나치 수 6](https://www.acmicpc.net/problem/11444) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11444%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%986/code.py)
 | 11448 | [Ga](https://www.acmicpc.net/problem/11448) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11448%20Ga/code.py) | 
 | 11650 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11650%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/code.py) | 
 | 11651 | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11651%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202/code.py) | 
