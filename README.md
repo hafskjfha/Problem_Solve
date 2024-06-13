@@ -89,6 +89,7 @@
 | 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/10816%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%202/code.py) | 
 | 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/10818%20%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80/code.py) | 
 | 10828 | [스택](https://www.acmicpc.net/problem/10828) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/10828%20%EC%8A%A4%ED%83%9D/code.py) | 
+| 10830 | [행렬 제곱](https://www.acmicpc.net/problem/10830) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/10830%20%ED%96%89%EB%A0%AC%20%EC%A0%9C%EA%B3%B1/code.py)
 | 10845 | [큐](https://www.acmicpc.net/problem/10845) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/10845%20%ED%81%90/code.py) | 
 | 10866 | [덱](https://www.acmicpc.net/problem/10866) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/10866%20%EB%8D%B1/code.py) | 
 | 11048 | [이동하기](https://www.acmicpc.net/problem/11048) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11048%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/code.py) | 
