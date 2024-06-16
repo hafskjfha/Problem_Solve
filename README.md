@@ -105,6 +105,7 @@
 | 11448 | [Ga](https://www.acmicpc.net/problem/11448) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11448%20Ga/code.py) | 
 | 11650 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11650%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/code.py) | 
 | 11651 | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11651%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202/code.py) | 
+| 11660 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11660%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%205/code.py) |
 | 11723 | [집합](https://www.acmicpc.net/problem/11723) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11723%20%EC%A7%91%ED%95%A9/code.py) | 
 | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11724%20%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98/code.py) |
 | 11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11725%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0/code.py) |
