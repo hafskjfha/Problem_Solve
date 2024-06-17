@@ -122,7 +122,8 @@
 | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/15650%20N%EA%B3%BC%20M%20(2)/code.py) |
 | 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/15652%20N%EA%B3%BC%20M%20(4)/code.py) |
 | 15654 | [N과 M (5)](https://www.acmicpc.net/problem/15654) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/15654%20N%EA%B3%BC%20M%20(5)/code.py) |
-| 15657 | [N과 M(8)](https://www.acmicpc.net/problem/15657) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/15657%20N%EA%B3%BC%20M%20(8)/code.py)
+| 15657 | [N과 M(8)](https://www.acmicpc.net/problem/15657) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/15657%20N%EA%B3%BC%20M%20(8)/code.py) |
+| 16134 | [조합 (Combination)](https://www.acmicpc.net/problem/16134) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/16134%20%EC%A1%B0%ED%95%A9%20(Combination)/code.py) |
 | 16509 | [장군](https://www.acmicpc.net/problem/16509) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/16509%20%EC%9E%A5%EA%B5%B0/code.py) | 
 | 16891 | [탄성 충돌](https://www.acmicpc.net/problem/16891) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/16891%20%ED%83%84%EC%84%B1%20%EC%B6%A9%EB%8F%8C/code.py) |
 | 16916 | [부분 문자열](https://www.acmicpc.net/problem/16916) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/16916%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4/code.py) | 
