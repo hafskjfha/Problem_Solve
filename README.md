@@ -37,6 +37,7 @@
 | 1966 | [프린터 큐](https://www.acmicpc.net/problem/1966) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1966%20%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90/code.py) | 
 | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1978%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/code.py) | 
 | 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1987%20%EC%95%8C%ED%8C%8C%EB%B2%B3/code.py) |
+| 2086 | [피보나치 수의 합](https://www.acmicpc.net/problem/2086) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2086%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%EC%9D%98%20%ED%95%A9/code.py) |
 | 2096 | [내려가기](https://www.acmicpc.net/problem/2096) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2096%20%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0/code.py)
 | 2161 | [카드1](https://www.acmicpc.net/problem/2161) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2161%20%EC%B9%B4%EB%93%9C1/code.py) | 
 | 2164 | [카드2](https://www.acmicpc.net/problem/2164) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2164%20%EC%B9%B4%EB%93%9C2/code.py) | 
