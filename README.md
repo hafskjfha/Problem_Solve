@@ -113,6 +113,7 @@
 | 11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11725%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0/code.py) |
 | 11778 | [피보나치 수와 최대공약수](https://www.acmicpc.net/problem/11778) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/11778%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%EC%99%80%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98/code.py) |
 | 13172 | [Σ](https://www.acmicpc.net/problem/13172) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/13172%20%CE%A3/code.py) |
+| 13335 | [트럭](https://www.acmicpc.net/problem/13335) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/13335%20%ED%8A%B8%EB%9F%AD/code.py) |
 | 13549 | [숨바꼭질3](https://www.acmicpc.net/problem/13549) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/13549%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%203/code.py) |
 | 13913 | [숨바꼭질4](https://www.acmicpc.net/problem/13913) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/13913%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%204/code.py) |
 | 14494 | [다이나믹이 뭐예요?](https://www.acmicpc.net/problem/14494) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/14494%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%EC%9D%B4%20%EB%AD%90%EC%98%88%EC%9A%94%3F/code.py) | 
