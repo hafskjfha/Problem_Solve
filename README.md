@@ -42,7 +42,8 @@
 | 2161 | [카드1](https://www.acmicpc.net/problem/2161) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2161%20%EC%B9%B4%EB%93%9C1/code.py) | 
 | 2164 | [카드2](https://www.acmicpc.net/problem/2164) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2164%20%EC%B9%B4%EB%93%9C2/code.py) | 
 | 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2178%20%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89/code.py) | 
-| 2194 | [유닛 이동시키기](https://www.acmicpc.net/problem/2194) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2194%20%EC%9C%A0%EB%8B%9B%20%EC%9D%B4%EB%8F%99%EC%8B%9C%ED%82%A4%EA%B8%B0/code.py)
+| 2194 | [유닛 이동시키기](https://www.acmicpc.net/problem/2194) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2194%20%EC%9C%A0%EB%8B%9B%20%EC%9D%B4%EB%8F%99%EC%8B%9C%ED%82%A4%EA%B8%B0/code.py) |
+| 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2206%20%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/code.py) |
 | 2407 | [조합](https://www.acmicpc.net/problem/2407) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2407%20%EC%A1%B0%ED%95%A9/code.py) | 
 | 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2439%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%202/code.py) | 
 | 2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2562%20%EC%B5%9C%EB%8C%93%EA%B0%92/code.py) | 
