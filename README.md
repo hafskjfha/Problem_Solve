@@ -16,6 +16,7 @@
 | 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1157%20%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80/code.py) | 
 | 1158 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1158%20%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C/code.py) | 
 | 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1181%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC/code.py) | 
+| 1238 | [파티](https://www.acmicpc.net/problem/1238) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1238%20%ED%8C%8C%ED%8B%B0/code.py) |
 | 1259 | [팰린드롬수](https://www.acmicpc.net/problem/1259) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1259%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98/code.py) | 
 | 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1260%20DFS%EC%99%80%20BFS/code.py) | 
 | 1269 | [대칭 차집합](https://www.acmicpc.net/problem/1269) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/1269%20%EB%8C%80%EC%B9%AD%20%EC%B0%A8%EC%A7%91%ED%95%A9/code.py) | 
