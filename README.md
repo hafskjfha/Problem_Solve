@@ -132,6 +132,7 @@
 | 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/15652%20N%EA%B3%BC%20M%20(4)/code.py) |
 | 15654 | [N과 M (5)](https://www.acmicpc.net/problem/15654) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/15654%20N%EA%B3%BC%20M%20(5)/code.py) |
 | 15657 | [N과 M(8)](https://www.acmicpc.net/problem/15657) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/15657%20N%EA%B3%BC%20M%20(8)/code.py) |
+| 15903 | [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/15903%20%EC%B9%B4%EB%93%9C%20%ED%95%A9%EC%B2%B4%20%EB%86%80%EC%9D%B4/code.py) |
 | 16134 | [조합 (Combination)](https://www.acmicpc.net/problem/16134) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/16134%20%EC%A1%B0%ED%95%A9%20(Combination)/code.py) |
 | 16509 | [장군](https://www.acmicpc.net/problem/16509) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/16509%20%EC%9E%A5%EA%B5%B0/code.py) | 
 | 16891 | [탄성 충돌](https://www.acmicpc.net/problem/16891) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/16891%20%ED%83%84%EC%84%B1%20%EC%B6%A9%EB%8F%8C/code.py) |
@@ -145,13 +146,16 @@
 | 17836 | [공주님을 구해라!](https://www.acmicpc.net/problem/17836) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%84%20%EA%B5%AC%ED%95%B4%EB%9D%BC!/code.py)
 | 18258 | [큐 2](https://www.acmicpc.net/problem/18258) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/18258%20%ED%81%90%202/code.py) | 
 | 18405 | [경쟁적 전염](https://www.acmicpc.net/problem/18405) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/18405%20%EA%B2%BD%EC%9F%81%EC%A0%81%20%EC%A0%84%EC%97%BC/code.py) | 
+| 19638 | [센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/19638%20%EC%84%BC%ED%8B%B0%EC%99%80%20%EB%A7%88%EB%B2%95%EC%9D%98%20%EB%BF%85%EB%A7%9D%EC%B9%98/code.py) |
 | 22352 | [항체인식](https://www.acmicpc.net/problem/22352) | [python](https://github.com/hafskjfha/Problem_Solve/tree/main/%EB%B0%B1%EC%A4%80/20001~30000/22352%20%ED%95%AD%EC%B2%B4%20%EC%9D%B8%EC%8B%9D)
 | 22362 | [爆発の連鎖](https://www.acmicpc.net/problem/22362) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/22362%20%E7%88%86%E7%99%BA%E3%81%AE%E9%80%A3%E9%8E%96/code.py)
 | 23747 | [와드](https://www.acmicpc.net/problem/23747) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/23747%20%EC%99%80%EB%93%9C/code.py) |
 | 25418 | [정수 a를 k로 만들기](https://www.acmicpc.net/problem/25418) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/25418%20%EC%A0%95%EC%88%98%20a%EB%A5%BC%20k%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0/code.py) | 
 | 25513 | [빠른 오름차순 숫자 탐색](https://www.acmicpc.net/problem/25513) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/25513%20%EB%B9%A0%EB%A5%B8%20%EC%98%A4%EB%A6%84%EC%B0%A8%EC%88%9C%20%EC%88%AB%EC%9E%90%20%ED%83%90%EC%83%89/code.py) |
 | 25788 | [Aqualin](https://www.acmicpc.net/problem/25788) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/25788%20Aqualin/code.py) |
-| 26993 | [Knights of Ni](https://www.acmicpc.net/problem/26993) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/26993%20Knights%20of%20Ni/code.py)
+| 25601 | [자바의 형변환](https://www.acmicpc.net/problem/25601) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/25601%20%EC%9E%90%EB%B0%94%EC%9D%98%20%ED%98%95%EB%B3%80%ED%99%98/code.py) |
+| 26993 | [Knights of Ni](https://www.acmicpc.net/problem/26993) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/26993%20Knights%20of%20Ni/code.py) |
+| 28107 | [회전초밥](https://www.acmicpc.net/problem/28107) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/28107%20%ED%9A%8C%EC%A0%84%EC%B4%88%EB%B0%A5/code.py) |
 | 28279 | [덱 2](https://www.acmicpc.net/problem/28279) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/28279%20%EB%8D%B12/code.py) | 
 | 28291 | [레드스톤](https://www.acmicpc.net/problem/28291) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/28291%20%EB%A0%88%EB%93%9C%EC%8A%A4%ED%86%A4/code.py) |
 | 30508 | [고인물이싫어](https://www.acmicpc.net/problem/30508) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/30001~40000/30508%20%EA%B3%A0%EC%9D%B8%EB%AC%BC%EC%9D%B4%EC%8B%AB%EC%96%B4/code.py) |
