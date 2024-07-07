@@ -54,6 +54,7 @@
 | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2577%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EA%B0%9C%EC%88%98/code.py) | 
 | 2606 | [바이러스](https://www.acmicpc.net/problem/2606) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2606%20%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4/code.py) | 
 | 2630 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2630%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0/code.py) |
+| 2660 | [회장뽑기](https://www.acmicpc.net/problem/2660) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2660%20%ED%9A%8C%EC%9E%A5%EB%BD%91%EA%B8%B0/code.py) |
 | 2675 | [문자열 반복](https://www.acmicpc.net/problem/2675) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2675%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5/code.py) | 
 | 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2750%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/code.py) | 
 | 2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/2751%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202/code.py) | 
