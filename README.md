@@ -87,7 +87,8 @@
 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/7576%20%ED%86%A0%EB%A7%88%ED%86%A0/code.py) | 
 | 8394 | [악수](https://www.acmicpc.net/problem/8394) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/8394%20%EC%95%85%EC%88%98/code.py) | 
 | 9012 | [괄호](https://www.acmicpc.net/problem/9012) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/9012%20%EA%B4%84%ED%98%B8/code.py) | 
-| 9019 | [DSLR](https://www.acmicpc.net/problem/9019) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/9019%20DSLR/code.py)
+| 9019 | [DSLR](https://www.acmicpc.net/problem/9019) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/9019%20DSLR/code.py) |
+| 9140 | [Přeprava materiálu](https://www.acmicpc.net/problem/9140) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/9140%20P%C5%99eprava%20materi%C3%A1lu/code.py) |
 | 9184 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/9184%20%EC%8B%A0%EB%82%98%EB%8A%94%20%ED%95%A8%EC%88%98%20%EC%8B%A4%ED%96%89/code.py) | 
 | 9700 | [RAINFOREST CANOPY](https://www.acmicpc.net/problem/9700) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/9700%20RAINFOREST%20CANOPY/code.py) | 
 | 9711 | [피보나치](https://www.acmicpc.net/problem/9711) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/1000~10000/9711%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98/code.py) | 
