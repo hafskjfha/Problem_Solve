@@ -151,6 +151,7 @@
 | 17413 | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/17413%20%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0%202/code.py) | 
 | 17836 | [공주님을 구해라!](https://www.acmicpc.net/problem/17836) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%84%20%EA%B5%AC%ED%95%B4%EB%9D%BC!/code.py)
 | 18258 | [큐 2](https://www.acmicpc.net/problem/18258) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/18258%20%ED%81%90%202/code.py) | 
+| 18402 | [RUN](https://www.acmicpc.net/problem/18402) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/18402%20RUN/code.py) |
 | 18405 | [경쟁적 전염](https://www.acmicpc.net/problem/18405) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/18405%20%EA%B2%BD%EC%9F%81%EC%A0%81%20%EC%A0%84%EC%97%BC/code.py) | 
 | 19638 | [센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/10001~20000/19638%20%EC%84%BC%ED%8B%B0%EC%99%80%20%EB%A7%88%EB%B2%95%EC%9D%98%20%EB%BF%85%EB%A7%9D%EC%B9%98/code.py) |
 | 22352 | [항체인식](https://www.acmicpc.net/problem/22352) | [python](https://github.com/hafskjfha/Problem_Solve/tree/main/%EB%B0%B1%EC%A4%80/20001~30000/22352%20%ED%95%AD%EC%B2%B4%20%EC%9D%B8%EC%8B%9D)
