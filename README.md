@@ -162,6 +162,7 @@
 | 25788 | [Aqualin](https://www.acmicpc.net/problem/25788) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/25788%20Aqualin/code.py) |
 | 25601 | [자바의 형변환](https://www.acmicpc.net/problem/25601) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/25601%20%EC%9E%90%EB%B0%94%EC%9D%98%20%ED%98%95%EB%B3%80%ED%99%98/code.py) |
 | 26993 | [Knights of Ni](https://www.acmicpc.net/problem/26993) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/26993%20Knights%20of%20Ni/code.py) |
+| 27008 | [Checking an Alibi](https://www.acmicpc.net/problem/27008) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/27008%20Checking%20an%20Alibi/code.py) |
 | 28107 | [회전초밥](https://www.acmicpc.net/problem/28107) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/28107%20%ED%9A%8C%EC%A0%84%EC%B4%88%EB%B0%A5/code.py) |
 | 28279 | [덱 2](https://www.acmicpc.net/problem/28279) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/28279%20%EB%8D%B12/code.py) | 
 | 28291 | [레드스톤](https://www.acmicpc.net/problem/28291) | [python](https://github.com/hafskjfha/Problem_Solve/blob/main/%EB%B0%B1%EC%A4%80/20001~30000/28291%20%EB%A0%88%EB%93%9C%EC%8A%A4%ED%86%A4/code.py) |
