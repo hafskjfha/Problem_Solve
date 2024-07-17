@@ -30,4 +30,3 @@ D=min(A)
 for i in range(N):
     if A[i]==D:
         print(i+1,end=' ')
-    
