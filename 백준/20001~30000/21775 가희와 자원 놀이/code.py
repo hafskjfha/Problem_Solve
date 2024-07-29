@@ -1,4 +1,3 @@
-import sys
 from collections import deque
 input=open(0).readline
 N,T=map(int,input().split())
