@@ -28,7 +28,6 @@ while i<len(note):
             temp=note[i]
             i+=1
     N.append(direction[temp])
-LV=len(N)
 in_key=[key[i]for i in in_key]
 correct=[]
 i=0
@@ -42,4 +41,4 @@ for k in in_key:
     else:
         correct=[]
         i=0
-print('Yes' if len(correct)==LV else 'No')
+print('Yes' if len(correct)==len(N) else 'No')
