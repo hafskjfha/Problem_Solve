@@ -1,72 +1,47 @@
 center={1,17,33,49,65}
 def grade(rank):
-    if 0<rank<17:
-        return 1
-    elif 16<rank<33:
-        return 2
-    elif 32<rank<49:
-        return 3
-    elif 48<rank<65:
-        return 4
-    elif 64<rank<81:
-        return 5
-    else:
-        return 6
+    return (rank-1) // 16 + 1
 
 def LL(kd,fd):
-    kl=list(kd.keys())
-    fl=set(list(fd.keys())[:16])
-    print(kl)
     p=0
-    for i in range(17):
-        if kl[i] not in fl:
+    for n,i in kd.items():
+        if i['class']==1 and fd.get(n,{}).get('class',6)!=1:
             p+=1
     return p
 
-def AA(kd,fd,pc_r,fc_r):
-    a=0
-    for i in kd.keys():
-        try:
-            if kd[i]['rank']<pc_r and fd[i]['rank']>fc_r:
-                a+=1
-        except:
-            a+=1
-    return a
-
 
 def sindelera(p_dict,f_dict,k):
-    #pl=list(p_dict.keys())
-    fl=list(f_dict.keys())
     sinde=[]
-    for nname in fl:
+    for n in f_dict.keys():
         point=0
-        f=f_dict[nname]
-        r,g,t,c=f['rank'],f['group'],f['team'],f['class']
+        na=n.split(';')
+        nname=na[2]
+        g,t=na[0],na[1]
+        f=f_dict[n]
+        r,c=f['rank'],f['class']
         try:
-            p=p_dict[nname]
-            pr,pg,pt,pc=p['rank'],g,t,p['class']
+            p=p_dict[f'{g};{t};{nname}']
+            pc=p['class']
         except:
-            pr,pg,pt,pc=81,g,t,6
+            pc=6
         if pc>c:
             point+=10000*(pc-c)
         if r in center:
             point+=20000 if pc>c else 10000
         if pc!=1 and c==1:
-            point+=30000*(k+AA(p_dict,f_dict,r,pr))
-        sinde.append([point,-r,nname])
+            point+=30000*(k)
+        sinde.append([point,-r,n])
     sinde.sort(reverse=True)
     return sinde
 
  
 
-def input_process(ppp,sset=set()):
+def input_process(ppp):
     a=1
     i=0
     U={}
     name=[]
-    #print(ppp)
     while i<len(ppp):
-        
         if ppp[i]!='Group':
             name.append(ppp[i])
             i+=1
@@ -75,33 +50,20 @@ def input_process(ppp,sset=set()):
         g=ppp[i+1]
         t=ppp[i+3]
         name=' '.join(name)
-        sset.add(name)
-        U[name]={'rank':a,'group':g,'team':t,'class':r}
+        U[f'{g};{t};{name}']={'rank':a,'class':r}
         a+=1
         i+=4
         name=[]
-    #print(U)
-    return U,sset
+    return U
     
 def main():
     sss=input().split()
-    m,p_set=input_process(sss,set())
+    m=input_process(sss)
     jjj=input().split()
-    n,_=input_process(jjj)
-    b=list(n.keys())
-    if b[0] not in p_set:
-        print(n[b[0]]['group'],n[b[0]]['team'],b[0].strip(),sep='\n')
-        return
+    n=input_process(jjj)
     p=LL(m,n)
     o=sindelera(m,n,p)
     po,_,name=o[0]
-    print(n[name]['group'],n[name]['team'],name.strip(),sep='\n')
+    print(name.replace(';','\n'))
 main()
 
-    
-    
-    
-    
-    
-    
-    
