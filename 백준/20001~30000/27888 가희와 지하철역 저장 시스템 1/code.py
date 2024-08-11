@@ -3,7 +3,7 @@ sp={}
 db={}
 def main():
     b=0
-    st={input().strip():int("0",2) for _ in range(int(input()))}
+    st={input().strip():0 for _ in range(int(input()))}
     for _ in range(int(input())):
         c,*p=input().strip().split()
         if c=="U":
