@@ -1,3 +1,4 @@
+from collections import OrderedDict
 input=open(0).readline
 INF=float('inf')
 
@@ -13,20 +14,16 @@ def process(R_node_name,station_name,request_node_db,cache_node_db,node_info,buc
     p = request_node_db[R_node_name]['short_node_name']
     g = cache_node_db[p]['db']
     ans=request_node_db[R_node_name]['short_distance']*2
-    # print(station_name)
-    # print(p)
-    # print(g)
     if station_name in g:
         del g[station_name]
         g[station_name]=0
         return ans
     else:
-        #print(cache_node_db[p]['capacity'])
         if station_name in g:
             del[station_name]
         elif cache_node_db[p]['capacity']==h:
             cache_node_db[p]['capacity']-=1
-            del g[list(g.keys())[0]]
+            g.popitem(last=False)
         g[station_name]=0
         cache_node_db[p]['capacity']+=1
         r=gr[node_info[p]][bucket_node]
@@ -65,7 +62,7 @@ def main():
         gr[node2_index][node1_index]=int(rt)
     gr=floyd(gr,M)
     request_node_db={}
-    cache_node_db={o:{'db':{},'capacity':0} for o in cache}
+    cache_node_db={o:{'db':OrderedDict({}),'capacity':0} for o in cache}
     
     #each request node minimum distance to cache node
     for n in request:
@@ -84,6 +81,4 @@ def main():
     for _ in range(Q):
         p_node_name,station_name=input().strip().split()
         print(process(p_node_name,station_name,request_node_db,cache_node_db,node_info,node_info[bucket[0]],gr,H))
-        #print()
 main()
-
