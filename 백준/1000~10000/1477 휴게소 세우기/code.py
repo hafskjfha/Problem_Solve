@@ -4,9 +4,7 @@ def sol(A,N,K,M):
         if A[i]-A[i-1]>K:
             c+=(A[i]-A[i-1]-1)//K
     return 0 if c>M else 1
-    
 def main():
-    INF=float('inf')
     N,M,L=map(int,input().split())
     A=[0]+[*map(int,input().split())]+[L]
     A.sort()
