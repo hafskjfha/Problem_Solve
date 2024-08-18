@@ -7,7 +7,6 @@ def sol(K,A,N,C):
             c+=1
             now=A[i]
     return 0 if c<C else 1
-
 def main():
     N,C=map(int,input().split())
     A=[int(input())for _ in range(N)]
