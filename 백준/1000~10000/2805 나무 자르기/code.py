@@ -4,7 +4,6 @@ def sol(K,A,M):
     for i in A:
         s+=0 if i-K<0 else i-K
     return 0 if s<M else 1
-
 def main():
     N,M=map(int,input().split())
     A=sorted([*map(int,input().split())])
