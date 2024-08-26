@@ -35,7 +35,7 @@ def dfs_path(graph):
     global last_visited_node
     path = []
     visited = set()
-    last_visited_node=None
+    last_visited_node=1
     def dfs(node):
         global last_visited_node
         visited.add(node)
@@ -51,7 +51,7 @@ def dfs_path(graph):
     		path.pop()
     	else:
     		break
-    return len(path)-1 if len(path) else 0
+    return len(path)-1
 
 def main():
     D,N,U,T=map(int,input().split())
