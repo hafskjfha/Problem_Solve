@@ -30,7 +30,6 @@ def bfs(gr,D,U,T):
                 q.append([next_n,move_t])
                 V[next_n]=move_t+V[node]
     return j
-    
 def dfs_path(graph):
     global last_visited_node
     path = []
