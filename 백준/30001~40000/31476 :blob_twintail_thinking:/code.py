@@ -12,7 +12,6 @@ def create_tree(D,P):
         if right<=nodes and (i,right)not in P:
             gr[i].append(right)
     return gr
-    
 def bfs(gr,D,U,T):
     V=[INF]*2**D
     q=deque([[1,U]])
