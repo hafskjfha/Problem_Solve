@@ -1,8 +1,6 @@
 from collections import deque
 input=open(0).readline
-W=B=0
-def bfs(board,v,x,y,t,K,N):
-    global W,B
+def bfs(board,v,x,y,t,K,N,W,B):
     q=deque([(x,y)])
     p=True
     co=[(x,y)]
@@ -13,6 +11,7 @@ def bfs(board,v,x,y,t,K,N):
             if 0<=dx<N and 0<=dy<N and v[dy][dx]<K:
                 if board[dy][dx]==0:
                     p=False
+                    return board,v,W,B
                 if board[dy][dx]==t:
                     q.append((dx,dy))
                     v[dy][dx]=K
@@ -25,10 +24,9 @@ def bfs(board,v,x,y,t,K,N):
         
         for x,y in co:
             board[y][x]=0
-    return board,v
+    return board,v,W,B
 
-def sfs(V,S,board,N):
-    global W,B
+def sfs(V,S,board,N,W,B):
     q=deque([S])
     t=None
     c=1
@@ -51,9 +49,9 @@ def sfs(V,S,board,N):
             W+=c
         else:
             B+=c
-    return V
+    return V,W,B
 
-def u(s):
+def process_coordinate(s):
     l=''
     j=False
     for p in s:
@@ -67,7 +65,6 @@ def u(s):
             l+=p
 
 def main():
-    global W,B
     while 1:
         W=B=0
         K=1
@@ -78,19 +75,19 @@ def main():
         V=[[0]*N for _ in range(N)]
         w=N//2
         for z in range(M):
-            a,x,y=u(input().strip())
+            a,x,y=process_coordinate(input().strip())
             board[y+w][x+w]=a
             h=1 if a==2 else 2
             if z>2:
                 for dx,dy in [(-1,0),(1,0),(0,-1),(0,1)]:
                     i,j=x+w+dx,y+w+dy
                     if 0<=i<N and 0<=j<N and board[j][i]==h:
-                        board,v=bfs(board,v,i,j,board[j][i],K,N)
+                        board,v,W,B=bfs(board,v,i,j,board[j][i],K,N,W,B)
                         K+=1
         for i in range(N):
             for j in range(N):
                 if board[j][i]==0 and not V[j][i]:
-                    V=sfs(V,(i,j),board,N)
+                    V,W,B=sfs(V,(i,j),board,N,W,B)
         print(W,B)
         
 main()
