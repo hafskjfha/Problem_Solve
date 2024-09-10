@@ -17,7 +17,6 @@ def main():
             tier[name]=[K,[rank,rank+K-1]]
             rank+=K
             N-=K
-    print(tier)
     if N:
         print('Invalid System')
         return 1
