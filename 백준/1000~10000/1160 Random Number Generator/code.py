@@ -1,4 +1,3 @@
-
 def mul(a,b,p):
 	mat=[[0,0],[0,0]]
 	for i in range(2):
