@@ -1,4 +1,4 @@
-import bisect
+from bisect import bisect_left
 
 N=int(input())
 A=[*map(int,input().split())]
@@ -11,7 +11,7 @@ for i in A:
         R.append(L)
         L+=1
     else:
-        k=bisect.bisect_left(B,i)
+        k=bisect_left(B,i)
         R.append(k)
         B[k]=i
 print(L)
