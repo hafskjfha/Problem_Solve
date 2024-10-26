@@ -10,7 +10,7 @@
 30801
 
 ### 풀것
-- [ ] 0[8858](https://www.acmicpc.net/problem/8858)
+- [x] 0[8858](https://www.acmicpc.net/problem/8858)
 - [ ] 0[8983](https://www.acmicpc.net/problem/8983)
 - [ ] [13430](https://www.acmicpc.net/problem/13430)
 - [ ] [13904](https://www.acmicpc.net/problem/13904)
@@ -57,4 +57,5 @@
 - [ ] 벨만-포드
 - [ ] 유니온파인드
 - [ ] 오일러 피함수
-
+- [ ] 폴라드-로
+- [ ] 밀러-라빈
